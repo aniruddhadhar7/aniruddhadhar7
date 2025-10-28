@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Aniruddha Dhar!
 
-<!--
-**aniruddhadhar7/aniruddhadhar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student at Narula Institute of Technology  
+💻 Passionate Frontend Developer | Learning React & Full Stack Development  
+🚀 Exploring JavaScript, Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** C, C++, Java, Python  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🌱 Currently Learning
+- React.js
+- Advanced JavaScript
+- Full Stack Web Development
+
+---
+
+## 📫 Connect with Me
+📧 [Gmail](mailto:aniruddhadhar777@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/aniruddha-dhar-0457222b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+📸 [Instagram](https://www.instagram.com/itsme.aniruddha?igsh=MWZwN2t0NGNodXo4bg==)

@@ -1,4 +1,3 @@
-
 <!-- ========================================================= -->
 <!--                  GitHub Profile README                    -->
 <!-- ========================================================= -->
@@ -14,27 +13,51 @@
 </h3>
 
 <p align="center">
-Passionate about building scalable applications, writing clean code, and continuously learning modern technologies.
+  <a href="https://portfolio-indol-eta-32.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-portfolio--indol--eta--32.vercel.app-00C4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aniruddhadhar7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-aniruddhadhar7-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aniruddha-dhar-0457222b2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aniruddha_Dhar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+Passionate about building scalable web applications, writing clean code, and continuously learning modern full-stack & software engineering technologies.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year **B.Tech in Computer Science & Engineering**
-- 🏫 Narula Institute of Technology
-- 📍 India
-- 💻 Passionate about Software Engineering & Full Stack Development
-- 🌱 Currently improving my **DSA**, **React**, **Django**, and **Backend Development**
-- 🎯 Preparing for **Software Engineering Roles & Internships**
-- ⚡ I enjoy building real-world projects that solve practical problems.
+- 🎓 Final Year **B.Tech in Computer Science & Engineering** at Narula Institute of Technology
+- 📍 West Bengal, India
+- 🌐 **Live Portfolio**: [portfolio-indol-eta-32.vercel.app](https://portfolio-indol-eta-32.vercel.app/)
+- 💻 Passionate about **Software Engineering** & **Full Stack Web Development**
+- 🌱 Currently improving my skills in **Data Structures & Algorithms (DSA)**, **React.js**, **Django**, and **System Design**
+- 🎯 Actively seeking **Software Development Engineering (SDE)** roles & internships
+- ⚡ I enjoy building real-world projects that solve practical, everyday problems.
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🍔 Swad Food Delivery** | Responsive online food ordering and restaurant search web application with custom UI. | MERN Stack, Tailwind CSS | [🌐 Live Demo](https://swad-food-delivery.vercel.app/) • [💻 GitHub](https://github.com/aniruddhadhar7/Swad-Food-Delivery) |
+| **💼 Developer Portfolio** | Personal developer portfolio showcasing projects, skills, certifications, and experience. | React.js, Vite, CSS3 | [🌐 Live Demo](https://portfolio-indol-eta-32.vercel.app/) • [💻 GitHub](https://github.com/aniruddhadhar7/Portfolio) |
+| **🤖 AiVa Chatbot** | AI-powered interactive chatbot application featuring a customized console interface. | React.js, OpenRouter API, JS | [🌐 Live Demo](https://anychat-ai.vercel.app/) |
+| **🍼 SMART-HYDRATE** | **Patent Filed** (App No: 202631032874). Intelligent bottle for goal-oriented hydration and health parameter tracking. | IoT, Embedded Systems, Web | — |
+| **💼 Online Job Portal** | Role-based online job portal featuring recruiter, candidate, and admin dashboards. | Django, HTML, CSS, JS | — |
+| **📝 ExamDeskPro Portal** | Desktop-based online examination portal featuring timed assessments and automated result management. | JavaFX, MySQL | — |
 
 ---
 
 # 💼 Professional Skills
 
 ### Programming Languages
-
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,58 +66,52 @@ Passionate about building scalable applications, writing clean code, and continu
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Frontend
-
+### Frontend Development
 <p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### Backend
-
+### Backend Development
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### Database
-
+### Databases & Tools
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-1E88E5?style=for-the-badge"/>
-</p>
-
-### Tools
-
-<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
-# ⚙️ Technology Stack
+# ⚙️ Technology Summary
 
 | Category | Technologies |
 |----------|--------------|
-| Languages | Java • Python • C • C++ • JavaScript |
-| Frontend | HTML5 • CSS3 • React.js |
-| Backend | Django • Python |
-| Database | MySQL • SQL • DBMS |
-| Version Control | Git • GitHub |
-| IDE | VS Code |
+| **Languages** | Java • Python • C • C++ • JavaScript (ES6+) |
+| **Frontend** | React.js • Vite • Tailwind CSS • HTML5 • CSS3 |
+| **Backend** | Django • Node.js • Express.js |
+| **Databases** | MySQL • MongoDB • SQL |
+| **Tools & Platforms** | Git • GitHub • VS Code • Vercel |
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniruddhadhar7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhadhar7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aniruddhadhar7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhadhar7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -102,7 +119,7 @@ Passionate about building scalable applications, writing clean code, and continu
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=aniruddhadhar7&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=aniruddhadhar7&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -110,7 +127,7 @@ Passionate about building scalable applications, writing clean code, and continu
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhadhar7&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhadhar7&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -118,7 +135,7 @@ Passionate about building scalable applications, writing clean code, and continu
 # 🌐 GitHub Contribution Snake
 
 <p align="center">
-<img src="https://github.com/aniruddhadhar7/aniruddhadhar7/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github.com/aniruddhadhar7/aniruddhadhar7/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -126,7 +143,7 @@ Passionate about building scalable applications, writing clean code, and continu
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aniruddhadhar7&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aniruddhadhar7&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -134,66 +151,42 @@ Passionate about building scalable applications, writing clean code, and continu
 # 👀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aniruddhadhar7&label=Profile%20Views&color=1976D2&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=aniruddhadhar7&label=Profile%20Views&color=1976D2&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Learning & Focus Areas
 
-- Django REST Framework
-- React.js
-- Full Stack Development
-- Data Structures & Algorithms
-- SAP Fundamentals
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌐 Full Stack Web Application | Coming Soon |
-| 🤖 Machine Learning Project | Coming Soon |
-| 📚 Django Management System | Coming Soon |
-| 💼 Portfolio Website | Coming Soon |
-| ⚙️ Java Desktop Application | Coming Soon |
-| 📊 Data Analysis Project | Coming Soon |
+- ⚡ Django REST Framework & Microservices
+- ⚛️ Advanced React.js & State Management
+- 🌐 MERN Stack Development
+- 🧠 Data Structures & Algorithms
+- ⚙️ System Design & SAP Fundamentals
 
 ---
 
-# 🌐 Coding Profiles
+# 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/aniruddhadhar7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aniruddha-dhar-0457222b2">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:aniruddhadhar777@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
-</a>
-
+  <a href="https://github.com/aniruddhadhar7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aniruddha-dhar-0457222b2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aniruddhadhar777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-indol-eta-32.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -201,27 +194,25 @@ Passionate about building scalable applications, writing clean code, and continu
 # 🎯 Goals for 2026
 
 - ✅ Master Data Structures & Algorithms
-- ✅ Build production-ready Full Stack Projects
-- ✅ Learn Django REST Framework
-- ✅ Strengthen React.js skills
-- ✅ Contribute to Open Source
-- ✅ Solve 500+ Coding Problems
-- ✅ Secure a Software Engineering Role
+- ✅ Build production-ready Full Stack Projects (MERN & Django)
+- ✅ Contribute to Open Source Repositories
+- ✅ Solve 500+ Coding Problems on LeetCode & HackerRank
+- ✅ Secure a Software Engineering (SDE) Role
 
 ---
 
 # 💡 Fun Fact
 
-> **"I enjoy turning ideas into software and believe that every project is an opportunity to learn something new."**
+> **"I enjoy turning complex problems into elegant software solutions and believe that every project is an opportunity to innovate."**
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-Let's connect, collaborate, and build something amazing together.
+Feel free to connect, collaborate, or reach out!
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:1976D2,100:0D47A1&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:1976D2,100:0D47A1&height=160&section=footer"/>
 </p>
